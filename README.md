@@ -18,4 +18,6 @@
 ## The output displayed in the simulation console confirmed that all arithmetic and logic operations behaved as expected, and the testbench successfully validated each result. The entire process—from writing the ALU and testbench code to simulating and observing the outputs—provided a comprehensive understanding of how hardware modules are designed, implemented, and verified in VLSI systems. This task not only strengthened my skills in writing VHDL code but also enhanced my ability to work with simulation tools, interpret binary operations, and debug hardware-level logic. Furthermore, it emphasized the importance of testbenches in hardware development, as they play a critical role in ensuring that each module performs accurately before hardware deployment. Overall, Task-1 served as an essential introduction to digital system design and simulation, giving me a hands-on opportunity to explore the core building blocks of processors through the practical implementation of a basic but functional ALU.
 
 
- I
+#OUTPUT
+<img width="550" alt="Image" src="https://github.com/user-attachments/assets/75499bbb-4b00-4baf-a04f-206e67896395" />
+
